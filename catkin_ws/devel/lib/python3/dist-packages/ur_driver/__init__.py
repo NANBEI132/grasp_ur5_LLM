@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/__init__.py

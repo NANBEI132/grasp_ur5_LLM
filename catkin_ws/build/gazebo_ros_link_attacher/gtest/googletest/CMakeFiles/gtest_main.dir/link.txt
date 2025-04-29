@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11  -shared -Wl,-soname,libgtest_main.so -o ../lib/libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -Wl,-rpath,/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/build/gazebo_ros_link_attacher/gtest/lib ../lib/libgtest.so -lpthread 

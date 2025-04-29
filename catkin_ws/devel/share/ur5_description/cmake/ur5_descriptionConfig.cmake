@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur5_description/share/ur5_description/cmake/ur5_descriptionConfig.cmake

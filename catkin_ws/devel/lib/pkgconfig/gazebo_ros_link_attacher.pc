@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/gazebo_ros_link_attacher/lib/pkgconfig/gazebo_ros_link_attacher.pc

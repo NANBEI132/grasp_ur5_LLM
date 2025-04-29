@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/vision/share/gennodejs/ros/vision/msg/_index.js

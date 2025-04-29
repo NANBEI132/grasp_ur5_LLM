@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/vision/include/vision/Lego_state.h

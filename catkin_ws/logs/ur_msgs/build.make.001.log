@@ -1,0 +1,21 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _ur_msgs_generate_messages_check_deps_SetIO
+[  0%] Built target _ur_msgs_generate_messages_check_deps_RobotModeDataMsg
+[  0%] Built target _ur_msgs_generate_messages_check_deps_Digital
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _ur_msgs_generate_messages_check_deps_Analog
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _ur_msgs_generate_messages_check_deps_IOStates
+[  0%] Built target _ur_msgs_generate_messages_check_deps_SetSpeedSliderFraction
+[  0%] Built target _ur_msgs_generate_messages_check_deps_RobotStateRTMsg
+[  0%] Built target _ur_msgs_generate_messages_check_deps_SetPayload
+[  0%] Built target _ur_msgs_generate_messages_check_deps_MasterboardDataMsg
+[  0%] Built target _ur_msgs_generate_messages_check_deps_ToolDataMsg
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 79%] Built target ur_msgs_generate_messages_eus
+[ 79%] Built target ur_msgs_generate_messages_nodejs
+[ 79%] Built target ur_msgs_generate_messages_cpp
+[ 81%] Built target ur_msgs_generate_messages_py
+[100%] Built target ur_msgs_generate_messages_lisp
+[100%] Built target ur_msgs_generate_messages

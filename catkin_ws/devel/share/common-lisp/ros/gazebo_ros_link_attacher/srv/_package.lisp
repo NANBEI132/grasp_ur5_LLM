@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/gazebo_ros_link_attacher/share/common-lisp/ros/gazebo_ros_link_attacher/srv/_package.lisp

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="moduan_test">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="-1.9623786637335E-08 0.00289982172732767 -0.0909238094215638"
+        rpy="0 0 0" />
+      <mass
+        value="0.25991479679218" />
+      <inertia
+        ixx="0.00067632808640656"
+        ixy="2.6641437684243E-09"
+        ixz="-1.92902438509009E-10"
+        iyy="0.000739734625401654"
+        iyz="-8.61680032322377E-06"
+        izz="0.000135909611675751" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://moduan_test/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://moduan_test/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

@@ -1,0 +1,3 @@
+[ 33%] Built target robot_state_publisher_solver
+[ 66%] Built target joint_state_listener
+[100%] Built target robot_state_publisher

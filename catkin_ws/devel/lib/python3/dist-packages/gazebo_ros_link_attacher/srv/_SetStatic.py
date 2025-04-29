@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/gazebo_ros_link_attacher/lib/python3/dist-packages/gazebo_ros_link_attacher/srv/_SetStatic.py

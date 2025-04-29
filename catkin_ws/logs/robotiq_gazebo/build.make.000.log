@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target gazebo_mimic_joint_plugin[0m
+[35m[1mScanning dependencies of target gazebo_disable_link_plugin[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/gazebo_disable_link_plugin.dir/src/disable_link_plugin.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gazebo_mimic_joint_plugin.dir/src/mimic_joint_plugin.cpp.o[0m
+[ 75%] [32m[1mLinking CXX shared library /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/robotiq_gazebo/lib/libgazebo_disable_link_plugin.so[0m
+[ 75%] Built target gazebo_disable_link_plugin
+[100%] [32m[1mLinking CXX shared library /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/robotiq_gazebo/lib/libgazebo_mimic_joint_plugin.so[0m
+[100%] Built target gazebo_mimic_joint_plugin

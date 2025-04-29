@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/vision/setup.sh

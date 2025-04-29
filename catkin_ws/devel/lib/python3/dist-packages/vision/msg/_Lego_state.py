@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/vision/lib/python3/dist-packages/vision/msg/_Lego_state.py

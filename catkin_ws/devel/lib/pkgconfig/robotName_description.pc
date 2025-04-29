@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/robotName_description/lib/pkgconfig/robotName_description.pc

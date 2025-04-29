@@ -1,0 +1,8 @@
+prefix=/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/vision
+
+Name: vision
+Description: Description of vision
+Version: 0.0.0
+Cflags: -I/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/vision/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

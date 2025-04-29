@@ -1,0 +1,12 @@
+[  0%] Built target _vision_generate_messages_check_deps_Lego_state
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 28%] Built target vision_generate_messages_py
+[ 57%] Built target vision_generate_messages_eus
+[ 71%] Built target vision_generate_messages_nodejs
+[ 85%] Built target vision_generate_messages_lisp
+[100%] Built target vision_generate_messages_cpp
+[100%] Built target vision_generate_messages

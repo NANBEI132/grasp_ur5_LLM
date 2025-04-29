@@ -1,0 +1,26 @@
+{
+  "actions": [
+    {
+      "type": "move",
+      "target_position": [0.4, 0.0, 0.4],
+      "speed": 0.2,
+      "acceleration": 0.1
+    },
+    {
+      "type": "gripper",
+      "action": "close",
+      "force": 20
+    },
+    {
+      "type": "move",
+      "target_position": [0.4, -0.2, 0.4],
+      "speed": 0.3,
+      "acceleration": 0.1
+    },
+    {
+      "type": "gripper",
+      "action": "open",
+      "force": 20
+    }
+  ]
+}

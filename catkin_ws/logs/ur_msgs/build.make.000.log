@@ -1,0 +1,99 @@
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_RobotModeDataMsg[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_Digital[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_Analog[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_SetSpeedSliderFraction[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_IOStates[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_SetIO[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_SetPayload[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_MasterboardDataMsg[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_RobotStateRTMsg[0m
+[35m[1mScanning dependencies of target _ur_msgs_generate_messages_check_deps_ToolDataMsg[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target _ur_msgs_generate_messages_check_deps_RobotModeDataMsg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target _ur_msgs_generate_messages_check_deps_Digital
+[  0%] Built target _ur_msgs_generate_messages_check_deps_SetPayload
+[  0%] Built target _ur_msgs_generate_messages_check_deps_ToolDataMsg
+[  0%] Built target _ur_msgs_generate_messages_check_deps_SetIO
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target _ur_msgs_generate_messages_check_deps_RobotStateRTMsg
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _ur_msgs_generate_messages_check_deps_SetSpeedSliderFraction
+[  0%] Built target _ur_msgs_generate_messages_check_deps_Analog
+[  0%] Built target _ur_msgs_generate_messages_check_deps_IOStates
+[  0%] Built target _ur_msgs_generate_messages_check_deps_MasterboardDataMsg
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target ur_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target ur_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ur_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target ur_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target ur_msgs_generate_messages_lisp[0m
+[  3%] [34m[1mGenerating C++ code from ur_msgs/Analog.msg[0m
+[  3%] [34m[1mGenerating Javascript code from ur_msgs/Digital.msg[0m
+[  5%] [34m[1mGenerating EusLisp code from ur_msgs/Analog.msg[0m
+[  7%] [34m[1mGenerating Javascript code from ur_msgs/Analog.msg[0m
+[  9%] [34m[1mGenerating Python from MSG ur_msgs/Analog[0m
+[ 11%] [34m[1mGenerating Lisp code from ur_msgs/Analog.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from ur_msgs/Digital.msg[0m
+[ 15%] [34m[1mGenerating Python from MSG ur_msgs/Digital[0m
+[ 16%] [34m[1mGenerating Lisp code from ur_msgs/IOStates.msg[0m
+[ 18%] [34m[1mGenerating Lisp code from ur_msgs/RobotStateRTMsg.msg[0m
+[ 20%] [34m[1mGenerating Lisp code from ur_msgs/MasterboardDataMsg.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from ur_msgs/IOStates.msg[0m
+[ 24%] [34m[1mGenerating EusLisp code from ur_msgs/Digital.msg[0m
+[ 26%] [34m[1mGenerating Javascript code from ur_msgs/RobotStateRTMsg.msg[0m
+[ 28%] [34m[1mGenerating C++ code from ur_msgs/Digital.msg[0m
+[ 30%] [34m[1mGenerating C++ code from ur_msgs/IOStates.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from ur_msgs/RobotModeDataMsg.msg[0m
+[ 33%] [34m[1mGenerating Javascript code from ur_msgs/MasterboardDataMsg.msg[0m
+[ 35%] [34m[1mGenerating C++ code from ur_msgs/RobotStateRTMsg.msg[0m
+[ 37%] [34m[1mGenerating Javascript code from ur_msgs/RobotModeDataMsg.msg[0m
+[ 39%] [34m[1mGenerating Lisp code from ur_msgs/ToolDataMsg.msg[0m
+[ 41%] [34m[1mGenerating Python from MSG ur_msgs/IOStates[0m
+[ 43%] [34m[1mGenerating Javascript code from ur_msgs/ToolDataMsg.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from ur_msgs/SetPayload.srv[0m
+[ 47%] [34m[1mGenerating C++ code from ur_msgs/MasterboardDataMsg.msg[0m
+[ 49%] [34m[1mGenerating EusLisp code from ur_msgs/IOStates.msg[0m
+[ 50%] [34m[1mGenerating Lisp code from ur_msgs/SetPayload.srv[0m
+[ 52%] [34m[1mGenerating Lisp code from ur_msgs/SetSpeedSliderFraction.srv[0m
+[ 54%] [34m[1mGenerating Javascript code from ur_msgs/SetSpeedSliderFraction.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from ur_msgs/RobotStateRTMsg.msg[0m
+[ 58%] [34m[1mGenerating Python from MSG ur_msgs/RobotStateRTMsg[0m
+[ 60%] [34m[1mGenerating Python from MSG ur_msgs/MasterboardDataMsg[0m
+[ 62%] [34m[1mGenerating Lisp code from ur_msgs/SetIO.srv[0m
+[ 64%] [34m[1mGenerating Python from MSG ur_msgs/RobotModeDataMsg[0m
+[ 66%] [34m[1mGenerating Python from MSG ur_msgs/ToolDataMsg[0m
+[ 67%] [34m[1mGenerating Javascript code from ur_msgs/SetIO.srv[0m
+[ 69%] [34m[1mGenerating Python code from SRV ur_msgs/SetPayload[0m
+[ 69%] Built target ur_msgs_generate_messages_lisp
+[ 71%] [34m[1mGenerating C++ code from ur_msgs/RobotModeDataMsg.msg[0m
+[ 73%] [34m[1mGenerating C++ code from ur_msgs/ToolDataMsg.msg[0m
+[ 75%] [34m[1mGenerating EusLisp code from ur_msgs/MasterboardDataMsg.msg[0m
+[ 75%] Built target ur_msgs_generate_messages_nodejs
+[ 77%] [34m[1mGenerating EusLisp code from ur_msgs/RobotModeDataMsg.msg[0m
+[ 79%] [34m[1mGenerating Python code from SRV ur_msgs/SetIO[0m
+[ 81%] [34m[1mGenerating Python code from SRV ur_msgs/SetSpeedSliderFraction[0m
+[ 83%] [34m[1mGenerating C++ code from ur_msgs/SetPayload.srv[0m
+[ 84%] [34m[1mGenerating C++ code from ur_msgs/SetSpeedSliderFraction.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from ur_msgs/ToolDataMsg.msg[0m
+[ 88%] [34m[1mGenerating C++ code from ur_msgs/SetIO.srv[0m
+[ 90%] [34m[1mGenerating EusLisp code from ur_msgs/SetIO.srv[0m
+[ 92%] [34m[1mGenerating EusLisp code from ur_msgs/SetSpeedSliderFraction.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from ur_msgs/SetPayload.srv[0m
+[ 96%] [34m[1mGenerating EusLisp manifest code for ur_msgs[0m
+[ 98%] [34m[1mGenerating Python msg __init__.py for ur_msgs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for ur_msgs[0m
+WARNING: Package name "levelManager" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "robotName_description" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target ur_msgs_generate_messages_cpp
+[100%] Built target ur_msgs_generate_messages_py
+WARNING: Package name "levelManager" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "robotName_description" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target ur_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target ur_msgs_generate_messages[0m
+[100%] Built target ur_msgs_generate_messages

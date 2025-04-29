@@ -1,0 +1,10 @@
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_driver/docs/URDriverConfig.dox
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_driver/docs/URDriverConfig.wikidoc
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_driver/docs/URDriverConfig-usage.dox
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_driver/cmake/ur_driverConfig-version.cmake
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_driver/cmake/ur_driverConfig.cmake
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/include/ur_driver/URDriverConfig.h
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/python3/dist-packages/ur_driver/__init__.py
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/python3/dist-packages/ur_driver/cfg/URDriverConfig.py
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/python3/dist-packages/ur_driver/cfg/__init__.py
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/pkgconfig/ur_driver.pc

@@ -1,0 +1,8 @@
+prefix=/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/install
+
+Name: robot_state_publisher
+Description: Description of robot_state_publisher
+Version: 1.15.2
+Cflags: -I${prefix}/include -I/usr/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/include
+Libs: -L${prefix}/lib -lrobot_state_publisher_solver -ljoint_state_listener -lorocos-kdl
+Requires: kdl_parser roscpp rosconsole rostime sensor_msgs tf2_ros tf2_kdl

@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target robot_state_publisher_solver[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/robot_state_publisher_solver.dir/src/robot_state_publisher.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/robot_state_publisher/lib/librobot_state_publisher_solver.so[0m
+[ 33%] Built target robot_state_publisher_solver
+[35m[1mScanning dependencies of target joint_state_listener[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/joint_state_listener.dir/src/joint_state_listener.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/robot_state_publisher/lib/libjoint_state_listener.so[0m
+[ 66%] Built target joint_state_listener
+[35m[1mScanning dependencies of target robot_state_publisher[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/robot_state_publisher.dir/src/robot_state_publisher_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/robot_state_publisher/lib/robot_state_publisher/robot_state_publisher[0m
+[100%] Built target robot_state_publisher

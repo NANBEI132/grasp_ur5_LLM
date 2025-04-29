@@ -1,0 +1,8 @@
+prefix=/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/install
+
+Name: robotName_description
+Description: Description of robotName_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

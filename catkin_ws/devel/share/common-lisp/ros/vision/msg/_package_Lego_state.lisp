@@ -1,0 +1,1 @@
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/vision/share/common-lisp/ros/vision/msg/_package_Lego_state.lisp

@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target ur5_kin[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/ur5_kin.dir/src/ur_kin.cpp.o[0m
+[35m[1mScanning dependencies of target ur3_kin[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/ur3_kin.dir/src/ur_kin.cpp.o[0m
+[35m[1mScanning dependencies of target ur10_kin[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ur10_kin.dir/src/ur_kin.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/libur10_kin.so[0m
+[ 83%] [32m[1mLinking CXX shared library /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/libur3_kin.so[0m
+[100%] [32m[1mLinking CXX shared library /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/libur5_kin.so[0m
+[100%] Built target ur10_kin
+[100%] Built target ur3_kin
+[100%] Built target ur5_kin

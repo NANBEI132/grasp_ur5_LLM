@@ -1,0 +1,7 @@
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/libur3_kin.so
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/libur5_kin.so
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/libur10_kin.so
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/pkgconfig/ur_kinematics.pc

@@ -1,0 +1,2 @@
+robot/universal_robot/universal_robots
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/universal_robots/cmake.lock /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/./cmake.lock

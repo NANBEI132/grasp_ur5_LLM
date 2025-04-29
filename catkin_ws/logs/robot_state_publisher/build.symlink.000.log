@@ -1,0 +1,6 @@
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/robot_state_publisher/cmake/robot_state_publisherConfig.cmake
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/robot_state_publisher/cmake/robot_state_publisherConfig-version.cmake
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/librobot_state_publisher_solver.so
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/libjoint_state_listener.so
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/robot_state_publisher/robot_state_publisher
+Symlinking /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/pkgconfig/robot_state_publisher.pc

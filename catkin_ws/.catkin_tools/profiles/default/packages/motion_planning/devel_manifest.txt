@@ -1,0 +1,2 @@
+motion_planning
+/home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/motion_planning/cmake.lock /home/zzq/UR5-Pick-and-Place-Simulation/catkin_ws/devel/./cmake.lock
