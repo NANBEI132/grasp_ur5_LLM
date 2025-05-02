@@ -1,6 +1,6 @@
 #####最下面是前作者的readme，respect。上面这部分是我的，我会简单介绍必要的启动方式，详细的阐释会在我的csdn文章中体现。
 文件中的control.py;motion_ros2plan;以及gazebo_vlm_interfaceduo55502.py（大模型控制的部分）都是我所添加，借用了原作者搭建的场景与建模，在此表示感谢。之后我会发布自己的场景以及其他的功能，这都是后话了。。。
-
+在创建了conda空间voice_qwen以及安装了相关的依赖之后，将gazebo_vlm_interfaceduo55502.py代码放进工作空间，然后重新安装依赖，至此完成。
 下载了仓库之后首先进入到最下面的前作者的readme部分，将他之前的依赖安装好，然后进入到catkin_ws
 然后输入：再次安装依赖
 rosdep install --from-paths src --ignore-src -r -y
