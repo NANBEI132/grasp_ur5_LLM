@@ -1,4 +1,8 @@
 #####最下面是前作者的readme，respect。上面这部分是我的，我会简单介绍必要的启动方式，详细的阐释会在我的csdn文章中体现。
+bilibili链接：https://www.bilibili.com/video/BV1uKVLzkE4u/?spm_id_from=333.1387.homepage.video_card.click&vd_source=40ef3bdc52d9c56b0a42adcd35bfc94d；；
+csdn链接https://blog.csdn.net/2301_78619377/article/details/147596845
+
+
 文件中的control.py;motion_ros2plan;以及gazebo_vlm_interfaceduo55502.py（大模型控制的部分）都是我所添加，借用了原作者搭建的场景与建模，在此表示感谢。之后我会发布自己的场景以及其他的功能，这都是后话了。。。
 在创建了conda空间voice_qwen以及安装了相关的依赖之后，将gazebo_vlm_interfaceduo55502.py代码放进工作空间，当然里面的api的部分需要用自己的然后重新安装依赖，至此完成。
 下载了仓库之后首先进入到最下面的前作者的readme部分，将他之前的依赖安装好，然后进入到catkin_ws
