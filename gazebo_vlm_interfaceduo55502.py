@@ -40,8 +40,8 @@ CHUNK_SIZE = 1024
 TEMP_AUDIO_FILE = "/home/zzq/voice_qwen/outputs/temp_audio.wav"
 IMAGE_SAVE_DIR = "/home/zzq/voice_qwen/outputs/VLMpictures"
 
-API_KEY = "sk-8b3a81e16c0b479c894625787d75cffd"
-BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+API_KEY = 
+BASE_URL = 
 
 pickup_coords_pub = rospy.Publisher('/pickup_coords', Point, queue_size=10)
 
