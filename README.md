@@ -4,34 +4,34 @@
 下载了仓库之后首先进入到最下面的前作者的readme部分，将他之前的依赖安装好，然后进入到catkin_ws
 然后输入：再次安装依赖
 rosdep install --from-paths src --ignore-src -r -y
-catkin build 编译，如果报错，就自行解决依赖问题
+；；；；catkin build 编译，如果报错，就自行解决依赖问题
 
 假设你已经ok了，接下来开始使用；；
 ####1：打开gazebo：：
-cd UR5-Pick-and-Place-Simulation/catkin_ws
-source devel/setup.bash
-roslaunch levelManager lego_world.launch
+cd UR5-Pick-and-Place-Simulation/catkin_ws；；；；
+source devel/setup.bash；；；；
+roslaunch levelManager lego_world.launch；；；；
 
 ###2；添加积木
-source devel/setup.bash
-rosrun levelManager levelManager.py -l 1        （1-4代表不同数量和难度的积木）
+source devel/setup.bash；；；；
+rosrun levelManager levelManager.py -l 1  ；；；；      （1-4代表不同数量和难度的积木）
 
 
 ####3 
-source devel/setup.bash
-rosrun motion_planning motion_plan2ros5.py             这个是启动接受话题的，让voice里面的坐标能过来，然后运动。
+source devel/setup.bash；；；；
+rosrun motion_planning motion_plan2ros5.py  ；；；；           这个是启动接受话题的，让voice里面的坐标能过来，然后运动。
 
 
 #######4：
 创建一个voice_qwen的conda空间
-conda create -n voice_qwen python=3.10
-conda activate voice_qwen
+conda create -n voice_qwen python=3.10；；；；
+conda activate voice_qwen；；；；
 
 
 
 ######5:
 启动
-python gazebo_vlm_interfaceduo55502.py 
+python gazebo_vlm_interfaceduo55502.py ；；；；
 ![image](https://github.com/user-attachments/assets/c5d5745c-a9df-4254-84f3-dc0f239d491f)
 这里可以看见需要先点击一下图片
 ![image](https://github.com/user-attachments/assets/b48b0391-605c-4f73-9346-74d7e681d282)
