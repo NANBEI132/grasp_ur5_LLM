@@ -40,7 +40,7 @@ python gazebo_vlm_interfaceduo55502.py ；；；；
 这里可以看见需要先点击一下图片
 ![image](https://github.com/user-attachments/assets/b48b0391-605c-4f73-9346-74d7e681d282)
 也就是你需要在这个界面点击一下，然后回到那个终端开始按下回车，然后语音输入你的命令。使用就到这里；。详细信息请看我的csdn；
-链接如下：
+链接如下：https://blog.csdn.net/2301_78619377/article/details/147596845?spm=1001.2014.3001.5501
 
 
 ；；；；；；；；；；；；；；；；；；；；；；；；；；
